@@ -1,4 +1,4 @@
 while true do
     game:GetService("Players").LocalPlayer.Character.Scythe45.Handle.Script.RemoteEvent:FireServer()
-    wait(0) -- Wait for 1 second before the next iteration. You can adjust this value as needed.
+    wait() -- Wait for 1 second before the next iteration. You can adjust this value as needed.
 end
