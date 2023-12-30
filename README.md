@@ -4,4 +4,7 @@
 https://github.com/SepuhScript99/MY-SCRPIT-ROBLOX/assets/155070384/a6337fca-d00b-4f67-98fb-6b227829122c
 
 
-https://www.mediafire.com/file/u8461yml7s1jxef/Screen_Recording_20231231_040615.mp4/file 
+
+https://github.com/SepuhScript99/MY-SCRPIT-ROBLOX/assets/155070384/db94391d-918c-48a5-a758-1e612a5f4999
+
+
